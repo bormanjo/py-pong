@@ -1,0 +1,7 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "E:\\ProgramData\\Miniconda\\Miniconda3\\envs\\py37\\python.exe",
+    "python.dataScience.jupyterServerURI": "http://127.0.0.1:8888/?token=d4e756f49f3bedaea04dd14eebc5af7e49fc48ebe40956de"
+}
