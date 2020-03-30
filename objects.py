@@ -123,7 +123,7 @@ class Ball(Movable):
         quadrant = random.randint(1, 4)
         x_dir = -1 if quadrant in [2, 3] else 1
         y_dir = -1 if quadrant in [3, 4] else 1
-        theta = random.randint(35, 55)
+        theta = 45
 
         v_x = round(x_dir * math.cos(theta) * speed, 0)
         v_y = round(y_dir * math.sin(theta) * speed, 0)
